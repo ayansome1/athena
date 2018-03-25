@@ -1,9 +1,9 @@
 'use strict';
 /* global require,module*/
-let q = require('q');
+// let q = require('q');
 let config = require('../config/config.js');
 let mysql = require('mysql');
-let fs = require('fs');
+// let fs = require('fs');
 // let messaging = require('messaging');
 // let aws = require("../lib/aws.js");
 
