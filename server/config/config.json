@@ -1,0 +1,19 @@
+{
+	"sqlconn": {
+		"host": "127.0.0.1",
+		"user": "root",
+		"password": "root",
+		"database": "athena"
+	},
+	"athena": {
+		"port": 9070,
+		"corsorigin": "http://localhost"
+	},
+	"s3params": {
+		"accessKeyId": "AKIAJSNFJNSK6PHFJHGR",
+		"secretAccessKey": "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"
+	},
+	"aws": {
+		"fileBucket": ""
+	}
+}
