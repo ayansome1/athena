@@ -10,8 +10,8 @@
 		"corsorigin": "http://localhost"
 	},
 	"s3params": {
-		"accessKeyId": "AKIAJSNFJNSK6PHFJHGR",
-		"secretAccessKey": "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"
+		"accessKeyId": "AKIAJSNFJNSK6PHFJHGS",
+		"secretAccessKey": "0hEr9NZQ+mR7AjBre/FDc/h/gfOBitYx/6CRw0B"
 	},
 	"aws": {
 		"fileBucket": ""
